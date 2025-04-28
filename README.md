@@ -2,6 +2,12 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
+<img width="1440" alt="Screenshot 2025-04-28 at 02 06 32" src="https://github.com/user-attachments/assets/2097b883-2d9b-472f-8f25-687ad2d7cfe7" />
+<img width="1438" alt="Screenshot 2025-04-28 at 02 06 14" src="https://github.com/user-attachments/assets/c3c7e840-7139-4aca-a778-11e9a6646f3b" />
+<img width="1440" alt="Screenshot 2025-04-28 at 02 06 58" src="https://github.com/user-attachments/assets/3338528d-e445-431e-b224-570c01e73c05" />
+<img width="1440" alt="Screenshot 2025-04-28 at 02 07 24" src="https://github.com/user-attachments/assets/452301d4-25eb-46a0-b6c4-d9f093fc95af" />
+
+
 ## Development server
 
 To start a local development server, run:

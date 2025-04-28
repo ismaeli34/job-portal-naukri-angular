@@ -1,6 +1,9 @@
 # Job Portal Angular | Mini Project
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
+It's a web application where people looking for jobs (job seekers) and companies looking to hire (employers) connect. The platform is built using Angular, a powerful front-end web framework, ensuring a dynamic, responsive, and user-friendly experience for millions of users daily.
+
+
 
 <img width="1440" alt="Screenshot 2025-04-28 at 02 06 32" src="https://github.com/user-attachments/assets/2097b883-2d9b-472f-8f25-687ad2d7cfe7" />
 <img width="1438" alt="Screenshot 2025-04-28 at 02 06 14" src="https://github.com/user-attachments/assets/c3c7e840-7139-4aca-a778-11e9a6646f3b" />
